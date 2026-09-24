@@ -1,4 +1,4 @@
-# B站市集商品搜索，监控客户端
+<img width="1458" height="1025" alt="image" src="https://github.com/user-attachments/assets/1887fd9a-c0dc-4e6d-b374-5fc98aaf2000" /># B站市集商品搜索，监控客户端
 
 本仓库提供可直接运行的 Windows x64 客户端，用于搜索、监控 B 站市集商品价格。
 
@@ -12,10 +12,16 @@
 ## 主要功能
 
 - **商品搜索**：按关键词搜索 B 站市集商品，查看商品名称、当前价格及商品链接。
+- <img width="577" height="1027" alt="image" src="https://github.com/user-attachments/assets/5c331aa4-1db4-4e68-ad71-6726a1dc5b86" />
+
 - **价格监控**：将需要关注的商品加入监控列表，按设定的检查周期自动查询价格变化。
+- <img width="1458" height="1025" alt="image" src="https://github.com/user-attachments/assets/a4935531-cc8a-4dcf-8c71-7c1095c5ec2a" />
+
 - **关注列表**：集中管理正在监控的商品，可随时新增、移除或暂停关注。
 - **价格历史**：在本地保存查询结果，查看商品价格的变化趋势，辅助判断入手时机。
 - **降价提醒**：商品价格达到设定条件时进行提醒；提醒方式以客户端内提示为主，也支持配置 PushPlus 或企业微信群机器人通知。
+- <img width="1179" height="2556" alt="b28eb0f649942d498be4659fca1b72bb" src="https://github.com/user-attachments/assets/7fff08f9-3cd9-406e-93c7-2d11fd46f995" />
+
 - **本地存储**：关注列表、价格历史和应用设置默认保存在本机，不需要额外部署数据库服务。
 - **系统托盘运行**：关闭主窗口后默认最小化到系统托盘，后台继续执行监控任务。
 
