@@ -20,7 +20,7 @@
 - **关注列表**：集中管理正在监控的商品，可随时新增、移除或暂停关注。
 - **价格历史**：在本地保存查询结果，查看商品价格的变化趋势，辅助判断入手时机。
 - **降价提醒**：商品价格达到设定条件时进行提醒；提醒方式以客户端内提示为主，也支持配置 PushPlus 或企业微信群机器人通知。
-- <img width="1179" height="2556" alt="b28eb0f649942d498be4659fca1b72bb" src="https://github.com/user-attachments/assets/7fff08f9-3cd9-406e-93c7-2d11fd46f995" />
+- <img width="393" height="852" alt="b28eb0f649942d498be4659fca1b72bb" src="https://github.com/user-attachments/assets/7fff08f9-3cd9-406e-93c7-2d11fd46f995" />
 
 - **本地存储**：关注列表、价格历史和应用设置默认保存在本机，不需要额外部署数据库服务。
 - **系统托盘运行**：关闭主窗口后默认最小化到系统托盘，后台继续执行监控任务。
